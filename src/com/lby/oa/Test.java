@@ -8,5 +8,6 @@ public class Test {
 		System.out.println("hello####4!!!");
 		System.out.println("555555555555");
 		System.out.println("666666666666");
+		System.out.println("新建66666666");
 	}
 }
